@@ -1,0 +1,5 @@
+<resources>
+  <string name="app_name">HiltViewModelSample</string>
+  <!-- TODO: Remove or change this placeholder text -->
+  <string name="hello_user_fragment">Hello User fragment</string>
+</resources>
