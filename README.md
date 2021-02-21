@@ -1,0 +1,2 @@
+# HiltViewModelSample
+Qiita記事「Hilt環境でのDefaultViewModelProviderFactoryの実装」用サンプル
